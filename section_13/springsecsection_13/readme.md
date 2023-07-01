@@ -1,0 +1,1 @@
+[//]: # (http://localhost:8080/realms/easybank/.well-known/openid-configuration)
